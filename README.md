@@ -1,2 +1,0 @@
-# Simpleapp
-Simple app
